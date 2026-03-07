@@ -1,0 +1,1 @@
+{"name":"Local: Extremely_Round","url":"d:\\cp\\Extremely_Round.cpp","tests":[{"id":1758969525004,"input":"6\n9\n42\n13\n100\n111\n5\n","output":"9\n13\n10\n19\n19\n5\n"},{"id":1758969535614,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\Extremely_Round.cpp","group":"local","local":true}

@@ -1,0 +1,30 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int n, q;
+    cin >> n >> q;
+
+    vector<int> pos(51, -1);
+
+    for (int i = 1; i <= n; i++) {
+        int x;
+        cin >> x;
+        if (pos[x] == -1)
+            pos[x] = i;
+    }
+
+    while (q--) {
+        int t;
+        cin >> t;
+
+        cout << pos[t] << " ";
+
+        int old = pos[t];
+        for (int c = 1; c <= 50; c++) {
+            if (pos[c] < old)
+                pos[c]++;
+        }
+        pos[t] = 1;
+    }
+}

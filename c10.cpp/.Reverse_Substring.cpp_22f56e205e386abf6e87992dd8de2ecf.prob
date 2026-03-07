@@ -1,0 +1,1 @@
+{"name":"Local: Reverse_Substring","url":"d:\\cp\\Reverse_Substring.cpp","tests":[{"id":1760905002000,"input":"1\n7\nabacaba\n","output":"YES\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\Reverse_Substring.cpp","group":"local","local":true}

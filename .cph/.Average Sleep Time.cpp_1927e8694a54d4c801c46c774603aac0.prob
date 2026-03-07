@@ -1,0 +1,1 @@
+{"name":"Local: Average Sleep Time","url":"d:\\cp\\Average Sleep Time.cpp","tests":[{"id":1770702442241,"input":"6 3\n1 2 3 4 5 6\n","output":"\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\Average Sleep Time.cpp","group":"local","local":true}

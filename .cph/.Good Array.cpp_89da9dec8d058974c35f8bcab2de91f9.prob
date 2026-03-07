@@ -1,0 +1,1 @@
+{"name":"Local: Good Array","url":"d:\\cp\\Good Array.cpp","tests":[{"id":1771444111238,"input":"4\n8 3 5 2\n","output":"2\n1 4 \n"},{"id":1771444180651,"input":"5\n2 1 2 4 3\n","output":"0\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cp\\Good Array.cpp","group":"local","local":true}
